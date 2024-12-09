@@ -565,7 +565,6 @@ html, body {
     height: 100px;
     width: 100px;
     margin: 0 auto; /* Centers the container itself in the parent */
-    border-radius: 16px;
 
     margin-bottom: 8px;
 }
